@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
+  },
+  {
+    "remote": "github",
+    "repository": "AgustinLorenzo/android_device_leeco_msm8996-common",
+    "target_path": "device/leeco/msm8996-common",
+    "branch": "lineage-16.0
+  },
+  {
+    "remote": "github",
+    "repository": "AgustinLorenzo/android_kernel_leeco_msm8996",
+    "target_path": "kernel/leeco/msm8996",
+    "branch": "p9.0"
+  },
+  {
+    "remote": "github",
+    "repository": "AgustinLorenzo/proprietary_vendor_leeco",
+    "target_path": "vendor/leeco",
+    "branch": "lineage-16.0"
+  }
+]

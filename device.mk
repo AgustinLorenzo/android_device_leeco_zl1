@@ -26,7 +26,7 @@ $(call inherit-product-if-exists, vendor/leeco/zl1/zl1-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-aosip
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
